@@ -1,0 +1,235 @@
+
+body{
+background-image:url("image/.jpg") ;
+background-repeat: no-repeat;
+background-size: 1500px 1500px;
+background-color:#fafad2 ;
+
+}
+
+ img.logo{
+    height:120px ;
+    width:120px ;
+
+    left:40px;
+   padding: 10px;
+ }
+
+#wearning{
+    border-radius: 30px;
+    font-family:candara ;
+    height:160px ;
+    width:1300px ;
+    border:solid;
+    background-color:black;
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+
+#bare_de_recherche{
+    position:    ;
+     padding:5px;
+     border-radius: 7px;
+   }
+
+
+.element{
+    height:20px ;
+    width:400px ;
+    background-color: white;
+    margin:7px;
+    border: 2px solid black;
+    text-align:center;
+    text-decoration: none;
+}
+
+.logo{
+    position:   absolute ;
+    left: 2  ;
+height:40px ;
+    width:90px ;
+}
+
+#news{
+top:    30 px;
+left:   30px;
+
+}
+
+
+
+.compte{
+position:absolute      ;
+right: 10%;
+height:40px ;
+    width:40px ;
+}
+
+.reglage{
+position:absolute      ;
+right: 6%;
+height:40px ;
+    width:40px ;
+}
+
+
+#rouge{
+    height:850px ;
+    width:150px ;
+     border:solid;
+    background-color:black;
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+    left: 20px;
+    float: left;
+     border-radius: 7px;
+
+
+}
+
+.look1{
+     margin:5px;
+    border: 2px solid black;
+    text-align:center;
+
+
+}
+
+#lolo{
+    height:400px ;
+    width:900px ;
+  font-family:candara ;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+}
+
+#popo{
+    height:400px ;
+    width:900px ;
+  font-family:candara ;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+}
+
+#koko{
+    height:400px ;
+    width:900px ;
+  font-family:candara ;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  
+  background-color: #E0FFFF;
+}
+
+
+
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color:#778899;
+    color: #008000;
+
+    }
+
+
+    /* -----------------------------------------------------------------------   page 1 css   -----------------------------------------  */
+
+
+.androidlogo{
+
+height:  150px  ;
+width:  250px;
+  }
+
+  
+#android1{
+    height:200px ;
+    width:20pxpx ;
+  font-family:candara ;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+}
+
+#android2{
+    height:200px ;
+    width:900px ;
+  font-family:candara ;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+}
+
+#android3{
+    height:200px ;
+    width:900px ;
+  font-family:candara ;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+}
+
+
+
+
+
+
+
+/* -----------------------------------------------------------------------   page 2 css   -----------------------------------------  */
+
+
+
+
+
+
+.IOSlogo{
+
+height:  150px  ;
+width:  250px;
+  }
+
+  
+#apple1{
+    height:200px ;
+    width:900px ;
+  font-family:candara ;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+}
+
+#apple2{
+    height:200px ;
+    width:900px ;
+  font-family:candara ;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+}
+
+#apple3{
+    height:200px ;
+    width:900px ;
+  font-family:candara ;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+}
+
